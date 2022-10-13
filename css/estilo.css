@@ -1,0 +1,19 @@
+body{
+    background: rgb(10, 11, 11);
+
+}
+
+
+.barra{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+.navbar-nav .nav-link {
+    color: #7a75b5;
+    font-weight: bold;
+}
+button .btn-outline-success{
+    color: #7a75b5;
+    border-color: #7a75b5;
+}
