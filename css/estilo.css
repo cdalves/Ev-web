@@ -1,13 +1,16 @@
-body{
-    background: rgb(10, 11, 11);
 
+#fundo-principa{
+    background-color: #d3d3d3;
 }
-
 
 .barra{
     background-color: rgba(0, 0, 0, 0.7);
 }
 
+#logo{
+    width: 20%;
+
+}
 
 .navbar-nav .nav-link {
     color: #7a75b5;
@@ -16,4 +19,8 @@ body{
 button .btn-outline-success{
     color: #7a75b5;
     border-color: #7a75b5;
+}
+
+#conteudo{
+    
 }
